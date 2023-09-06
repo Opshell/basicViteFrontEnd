@@ -1,0 +1,9 @@
+.vscode/
+node_modules/
+public/
+es/
+lib/
+dist/
+docs/
+src/assets/
+package.json
